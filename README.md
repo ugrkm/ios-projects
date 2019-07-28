@@ -1,4 +1,6 @@
-# iosprojelerim (Bu projelerde bir eğitim serisinden yararlandım ve projelerdeki bazı fotoğrafları hazır aldım)
+# iosprojelerim 
+
+(Bu projelerde bir eğitim serisinden yararlandım ve projelerdeki bazı fotoğrafları hazır aldım)
 
 - Auto Layout Calculator: Xcode'da Auto Layout adı altında bulunan Stack View, Alignment ve Constrain'ler kullanılarak bütün Apple Cihazlarında kullanabilecek şekilde hesap makinesi arayüzü tasarladım.
 
