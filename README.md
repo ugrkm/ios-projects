@@ -9,13 +9,13 @@
 - Clima: Cocoapods librarylerini kullanarak HTTP request ve JSON tipindeki verilere işleyip open weather API'sini kullanarak, kullanıcının konumunu bulup ordaki hava durumunu bulan ve isterse bir diğer viewcontroller'a geçip oradan başka bir şehirdeki hava durumunu bulan bir uygulama
 
 
-- Destini: Butonlar kullanılarak Title'ları update ederek if-else yapıları kullanılarak kısa bir hikaye oyunu
+- Destini: Butonlar kullanılarak Title'ları update ederek if-else yapıları kullanılmış kısa bir hikaye oyunu
 
 
 - Dicee: Swift'teki random fonksiyonu ve arrayler kullanılarak verilen imagelar arasında seçim yapılarak zar atma uygulaması
 
 
-- I am rich: UILabel ve UIView kullanılarak basit bir görüntüleme uygulaması
+- I am rich: UILabel ve UIView kullanılarak tasarlanmış basit bir görüntüleme uygulaması
 
 
 - Magic 8 Ball: Swift'teki random fonksiyonunu kullanarak buttona tıklandığında veya cihaz sallanıp durdurulduğunda aktive olan resim görüntüleme uygulaması
@@ -23,4 +23,4 @@
 - Quizzler: Doğru cevap sayısını yazan ve aynı zamanda ilerleme çubuğu ve progress hud(hud hazır alındı) içeren bir soru cevaplama uygulaması
 
 
-- Xylophone: Buttonlara tıklandığında sırasıyla müzikteki nota seslerini veren bir uygulama
+- Xylophone: Buttonlara tıklandığında sırasıyla müzikteki notaları veren bir uygulama
