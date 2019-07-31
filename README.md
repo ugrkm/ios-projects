@@ -14,7 +14,7 @@
 
 - I am rich: UILabel ve UIView kullanılarak tasarlanmış basit bir görüntüleme uygulaması
 
-- Magic 8 Ball: Swift'teki random fonksiyonunu kullanarak buttona tıklandığında veya cihaz sallanıp durdurulduğunda çalışan olan resim görüntüleme uygulaması
+- Magic 8 Ball: Swift'teki random fonksiyonunu kullanarak buttona tıklandığında veya cihaz sallanıp durdurulduğunda çalışan resim görüntüleme uygulaması
 
 - Quizzler: Doğru cevap sayısını yazan ve aynı zamanda ilerleme çubuğu ve progress hud(hud hazır alındı) içeren bir soru cevaplama uygulaması
 
